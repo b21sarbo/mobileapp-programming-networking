@@ -2,13 +2,13 @@
 # Rapport
 
 To-do list:
-[] Fork the app screens and clone the fork from your own Github repository in Android Studio
+[x] Fork the app screens and clone the fork from your own Github repository in Android Studio
 [] Your forked GitHub project must have at least three meaningful commits of code with descriptive comments. 
 [] Remember to keep your commits brief and your commit messages informative. 
 [] A reader of the commit history should be able to determine what change is included in a particular commit.
 [] We require at least 3 commits of program code that are meaningful.
 
-[] Add a second activity
+[x] Add a second activity
 [] Add a button in the first activity that starts the second activity
 [] Add data to the intent bundle using extras
 [] In the layout of in the second activity add least one widget to show data from the intent
