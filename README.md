@@ -15,20 +15,6 @@ To-do list:
 [] Write a short report where you explain the things that you have done
 [] Upload all artifacts as described in the assignment requirements
 
-To-do list:
-[x] Fork the app screens and clone the fork from your own Github repository in Android Studio
-[] Your forked GitHub project must have at least three meaningful commits of code with descriptive comments. 
-[] Remember to keep your commits brief and your commit messages informative. 
-[] A reader of the commit history should be able to determine what change is included in a particular commit.
-[] We require at least 3 commits of program code that are meaningful.
-
-[x] Add a second activity
-[] Add a button in the first activity that starts the second activity
-[] Add data to the intent bundle using extras
-[] In the layout of in the second activity add least one widget to show data from the intent
-[] Write a short report where you explain the things that you have done
-[] Upload all artifacts as described in the assignment requirements
-
 
 **Skriv din rapport här!**
 
