@@ -4,7 +4,7 @@
 To-do list:
 [x] Fork the app networking and clone the fork from your own Github repository in Android Studio
 [] Remember to keep your commits brief and your commit messages informative. A reader of the commit history should be able to determine what change is included in a particular commit. We require at least 3-4 commits that are meaningful and not part of the Readme-report.
-[] Add a `RecyclerView` to your layout
+[x] Add a `RecyclerView` to your layout
 [] Add a `ArrayList<Mountain>` as a member variable in your activity
 [] Add a `RecyclerView.Adapter` as a member variable in your activity
 [] Create a RecyclerView.Adapter and a RecyclerView.ViewHolder
